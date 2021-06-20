@@ -1,0 +1,53 @@
+body {
+  background-color: #3a3839 !important;
+}
+
+.presentation__title {
+  text-transform: initial !important
+}
+
+.text-yellow {
+  color: #fed650 !important;
+}
+
+.text-50 {
+  font-size: 50px !important;
+}
+
+.text-30 {
+  font-size: 30px !important;
+}
+
+.text-40 {
+  font-size: 40px !important;
+}
+
+.text-24 {
+  font-size: 24px !important;
+}
+
+.list li {
+  font-size: 22px;
+}
+
+.list-links li {
+  list-style: none;
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+.list-links li a {
+  color: #fff;
+  padding-bottom: 2px;
+  border-bottom: 1px solid #fff;
+}
+
+.list-links li:hover a {
+  color: #fed650;
+  border-bottom: 1px solid #fed650;
+}
+
+.rss-logo {
+  max-width: 300px !important;
+  width: 100%;
+}

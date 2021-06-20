@@ -1,0 +1,4 @@
+Hi, everyone! Welcome to this video. In this video i wona dive to one topic, there are a lot of people afraid of. And there is testing your code. Today i will explain topic "testing in JS". My fullname is Savkimov Aziz. I am from Tashkent. 
+
+Testing can be or should be an important part of any major project you are working on. And still a lot of people dont do it because it looks more complex, it looks unclear. So today i will talk about "what is testing", "Why we should test our code", "Types testing" and of course "How to test".
+
